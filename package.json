@@ -1,0 +1,23 @@
+{
+  "name": "helloworld",
+  "version": "2.0.0",
+  "description": "Simple hello world app",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Drumloch/HelloWorld.git"
+  },
+  "author": "Drumloch",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Drumloch/HelloWorld/issues"
+  },
+  "homepage": "https://github.com/Drumloch/HelloWorld#readme",
+  "dependencies": {
+    "luxon": "^3.4.4"
+  },
+  "type": "module"
+}
