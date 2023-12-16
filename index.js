@@ -1,6 +1,5 @@
-import { DateTime } from 'luxon'
+import { DateTime } from "luxon";
 
-export function sayHello(){
+export function sayHello() {
   console.log(`Hello World ${DateTime.now().toISO()}`);
 }
-
